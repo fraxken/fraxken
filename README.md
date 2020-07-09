@@ -11,3 +11,7 @@ Some recent notable projects:
 - https://github.com/fraxken/js-x-ray
 
 > 👀 Feel free to consult my various projects and organizations to which I am attached.
+
+<p align="center">
+  <img src="https://media1.tenor.com/images/3b104583a0cb831457a49e5ba1eeab12/tenor.gif?itemid=5580377">
+</p>
