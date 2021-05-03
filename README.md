@@ -13,8 +13,4 @@ I have been actively developing for six years on Node.js and over ten years for 
 I occasionally write articles about my various projects (mainly SlimIO and Node-secure).. 
 - https://dev.to/fraxken
 
-> 👀 Feel free to consult my various projects and organizations to which I am member.
-
-<p align="center">
-  <img src="https://media1.tenor.com/images/3b104583a0cb831457a49e5ba1eeab12/tenor.gif?itemid=5580377">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fraxken&theme=onedark)](https://github.com/fraxken)
