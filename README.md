@@ -27,6 +27,8 @@ I have a lot of interest in the following topics:
 
 I've been working with Node.js for over eight years. I am now focusing on creating content for French developers.
 
+[![fraxken GitHub stats](https://github-readme-stats.vercel.app/api?username=fraxken)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects and Organizations I contribute to
 
 | [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [OpenAlly](https://github.com/OpenAlly) |
