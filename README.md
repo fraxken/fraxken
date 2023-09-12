@@ -42,5 +42,6 @@ I've been working with Node.js for over eight years. I am now focusing on creati
 * Jun 29, 2022 - [NodeSecure CLI v2.0.0](https://dev.to/nodesecure/nodesecure-cli-v200-2ai7)
 * Jun, 2022 - [NodeTLV 22 - Untangle the secrets of your Dependencies with NodeSecure](https://www.youtube.com/watch?v=7tTh8KgrIYA)
 
-> **Note** You can find and read all my articles on [dev.to](https://dev.to/fraxken)
+> [!NOTE]
+> You can find and read all my articles on [dev.to](https://dev.to/fraxken)
 
