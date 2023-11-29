@@ -29,12 +29,15 @@ I've been working with Node.js for over eight years. I am now focusing on creati
 
 ## Projects and Organizations I contribute to
 
-| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [OpenAlly](https://github.com/OpenAlly) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> |
+| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [OpenAlly](https://github.com/OpenAlly) | [MyUnisoft](https://github.com/MyUnisoft) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/80276068?s=200&v=4" width="100"> |
 
 ## My latest articles and videos
 
+* Jun 12, 2023 - [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
+* Feb 19, 2023 - [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
+* Jan 16, 2023 - [JS-X-Ray 6.0](https://dev.to/nodesecure/js-x-ray-60-49ah)
 * Sep 30, 2022 - [Présentation du projet NodeSecure - ParisJS #101](https://www.youtube.com/watch?v=hmrKI1jZLGc)
 * Sep 6, 2022 - [Announcing NodeSecure Vulnera](https://dev.to/nodesecure/announcing-nodesecure-vulnera-22a6)
 * Aug 15, 2022 - [Untangle the Secrets of your JavaScript Dependencies | SnykLive](https://www.youtube.com/watch?v=dqey0bKmLSM)
