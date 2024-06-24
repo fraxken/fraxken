@@ -16,7 +16,7 @@
   </a>
 </p>
 
-Hi 👋. I'm a 28 years old software engineer working from France. I have been passionate about programming and creating projects since I was young. Over the past few years I have fallen madly in love with open source and I spend most of my time collaborating on projects revolving around the JavaScript ecosystem.
+Hi 👋. I'm a 29 years old software engineer working from France. I have been passionate about programming and creating projects since I was young. Over the past few years I have fallen madly in love with open source and I spend most of my time collaborating on projects revolving around the JavaScript ecosystem.
 
 I have a lot of interest in the following topics:
 
@@ -35,6 +35,8 @@ I've been working with Node.js for over eight years. I am now focusing on creati
 
 ## My latest articles and videos
 
+* Apr 4, 2024 - [Designing MyUnisoft Next-Gen Accounting APIs](https://dev.to/fraxken/designing-myunisoft-next-gen-accounting-apis-1mn)
+* Oct 25, 2023 - [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
 * Jun 12, 2023 - [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
 * Feb 19, 2023 - [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 * Jan 16, 2023 - [JS-X-Ray 6.0](https://dev.to/nodesecure/js-x-ray-60-49ah)
