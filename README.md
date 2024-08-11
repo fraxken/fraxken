@@ -29,9 +29,15 @@ I've been working with Node.js for over eight years. I am now focusing on creati
 
 ## Projects and Organizations I contribute to
 
-| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [OpenAlly](https://github.com/OpenAlly) | [MyUnisoft](https://github.com/MyUnisoft) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/80276068?s=200&v=4" width="100"> |
+Actives
+| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [OpenAlly](https://github.com/OpenAlly) | [MyUnisoft](https://github.com/MyUnisoft) (pro) |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/80276068?s=200&v=4" width="100"> |
+
+Inactives
+| [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [UIM-Community](https://github.com/UIM-Community) |
+| :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/27952864?s=200&v=4" width="100"> |
 
 ## My latest articles and videos
 
