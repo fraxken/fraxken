@@ -1,5 +1,5 @@
 <h1 align="center">Thomas GENTILHOMME</h1>
-<h3 align="center">French Software Engineer · Content creator · Open Source Maintainer</h3>
+<h3 align="center">French Developer · Content creator · Open Source Maintainer</h3>
 
 <p align="center">
   <a href="https://github.com/nodejs/security-wg">
@@ -21,23 +21,24 @@ Hi 👋. I'm a 30 years old software engineer working from France. I have been p
 I have a lot of interest in the following topics:
 
 - Improving DX by building tools.
-- Building web games (I'm also interested in building a collaborative game engine).
+- Building collaborative game engine and games.
 - Security 
 - Monitoring
+- Performance
 
-I've been working with Node.js for over ten years. I am now focusing on creating content for French developers.
+I've been working with Node.js for over ten years. I create content for French developers time to time.
 
 ## Projects and Organizations I contribute to
 
 Actives
-| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [OpenAlly](https://github.com/OpenAlly) | [MyUnisoft](https://github.com/MyUnisoft) (pro) |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/80276068?s=200&v=4" width="100"> |
+| [NodeSecure](https://github.com/NodeSecure) | [TopCli](https://github.com/TopCli) | [ES-Community](https://github.com/ES-Community) | [OpenAlly](https://github.com/OpenAlly) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/20496608?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113172904?s=200&v=4" width="100"> |
 
 Inactives
-| [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [UIM-Community](https://github.com/UIM-Community) |
-| :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/27952864?s=200&v=4" width="100"> |
+| [AntarkaGame](https://github.com/AntarkaGame) | [SlimIO](https://github.com/SlimIO) | [UIM-Community](https://github.com/UIM-Community) | [MyUnisoft](https://github.com/MyUnisoft) (ex) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/20371476?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/29552883?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/27952864?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/80276068?s=200&v=4" width="100"> |
 
 ## My latest articles and videos
 
