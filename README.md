@@ -42,6 +42,7 @@ Inactives
 
 ## My latest articles and videos
 
+* May 20, 2025 - [Migrating from Nextcloud to Azure S3](https://dev.to/myunisoft/migrating-from-nextcloud-to-azure-s3-ek6)
 * Apr 4, 2024 - [Designing MyUnisoft Next-Gen Accounting APIs](https://dev.to/fraxken/designing-myunisoft-next-gen-accounting-apis-1mn)
 * Oct 25, 2023 - [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
 * Jun 12, 2023 - [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
