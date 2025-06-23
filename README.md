@@ -5,9 +5,6 @@
   <a href="https://github.com/nodejs/security-wg">
     <img src="https://img.shields.io/static/v1?label=Node.js&message=Security%20WG&color=green&style=for-the-badge">
   </a>
-  <a href="https://github.com/MyUnisoft">
-    <img src="https://img.shields.io/badge/Node.js%20&%20API%20lead-MyUnisoft-9cf?style=for-the-badge">
-  </a>
   <a href="https://www.youtube.com/@Fraxken/">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube">
   </a>
