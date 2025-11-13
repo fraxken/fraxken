@@ -1,5 +1,5 @@
 <h1 align="center">Thomas GENTILHOMME</h1>
-<h3 align="center">French Developer · Content creator · Open Source Maintainer</h3>
+<h3 align="center">French Developer · Expert Node.js · Open Source Maintainer</h3>
 
 <p align="center">
   <a href="https://github.com/nodejs/security-wg">
