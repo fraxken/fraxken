@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Hi 👋. I'm a 30 years old software engineer working from France. I have been passionate about programming and creating projects since I was young. Over the past few years I have fallen madly in love with open source and I spend most of my time collaborating on projects revolving around the JavaScript ecosystem.
+Hi 👋. I'm a 31 years old software engineer working from France. I have been passionate about programming and creating projects since I was young. Over the past few years I have fallen madly in love with open source and I spend most of my time collaborating on projects revolving around the JavaScript ecosystem.
 
 I have a lot of interest in the following topics:
 
